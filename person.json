@@ -1,0 +1,15 @@
+{
+    "firstname":"Jim",
+    "gender" : true,
+    "height" : 173,
+    "email":"a62102305@gmail.com",
+    "city":{
+        "通訊地址":"台北",
+        "戶籍地址":"桃園"
+    },
+    "phone":{
+        "市話":"02-12345678",
+        "行動電話":"0960010101"
+    },
+    "cars":["BMW" ,"Nissan GT-R","Audi"]
+}
